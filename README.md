@@ -1,6 +1,6 @@
-# ProxyProof — Bluetooth Attendance Demo
+# ProxyProof — Bluetooth Attendance 
 
-A runnable Flask + SQLite prototype for the tech-club interview brief.
+A runnable Flask + SQLite prototype 
 
 ## Features
 - Organiser and student login roles
